@@ -3,7 +3,7 @@
 This project demonstrates the implementation of a recommender system using collaborative filtering techniques on a dataset of electronics reviews from Amazon.
 
 Table of Contents
-- [Usage]{#usage)
+- [Usage](#usage)
 - [Introduction](#introduction)
 - [Data Preparation](#data-preparation)
 - [Exploratory Data Analysis](#Exploratory-Data-Analysis)
