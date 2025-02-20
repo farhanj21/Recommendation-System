@@ -1,4 +1,4 @@
-# Recommendation System for E-Commerece Platform
+# Recommendation System for E-Commerce Platform
 
 This project demonstrates the implementation of a recommender system using collaborative filtering techniques on a dataset of electronics reviews from Amazon.
 
